@@ -6,7 +6,7 @@ from datetime import datetime
 import whisper
 from transformers import MistralForCausalLM, AutoTokenizer
 
-pip install openai-whisper transformers
+
 import torch
 import tempfile
 import os
